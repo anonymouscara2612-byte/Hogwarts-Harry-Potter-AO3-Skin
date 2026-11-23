@@ -757,6 +757,18 @@ span.requested {
   color: #121214;
 }
 
+#dashboard {
+  background: rgba(1, 14, 23, 0.7);
+  background-image: url("https://64.media.tumblr.com/1e7dc46615da9b733b1993cf412434e6/9bf24634f90d934a-76/s1280x1920/0ec46be0b66d79f6fdef78c0cde7db6ec6f555fb.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  border: 3px solid transparent;
+  box-shadow: none;
+  color: #121214;
+  border-radius: 8px;
+}
+
 #dashboard.own,
 .dashboard .own {
   background: rgba(1, 14, 23, 0.7);
